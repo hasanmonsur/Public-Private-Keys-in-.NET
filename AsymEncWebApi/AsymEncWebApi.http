@@ -1,0 +1,6 @@
+@AsymEncWebApi_HostAddress = http://localhost:5053
+
+GET {{AsymEncWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
